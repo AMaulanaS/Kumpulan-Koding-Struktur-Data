@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1411491573 source:e:\queue al 2\fungsi.c
+	"queue.h"
+
+1411491918 e:\queue al 2\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411491918 e:\queue al 2\boolean.h
+
+1411491710 source:e:\queue al 2\main.c
+	"queue.h"
+
+1411492407 source:d:\struktur data tgs\psda2\queue al 2\fungsi.c
+	"queue.h"
+
+1411495302 d:\struktur data tgs\psda2\queue al 2\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411491918 d:\struktur data tgs\psda2\queue al 2\boolean.h
+
+1411491710 source:d:\struktur data tgs\psda2\queue al 2\main.c
+	"queue.h"
+
+1413890329 source:e:\tugas kuliah\struktur data tgs\psda 2\queue al 2\fungsi.c
+	"queue.h"
+
+1413889887 e:\tugas kuliah\struktur data tgs\psda 2\queue al 2\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411491920 e:\tugas kuliah\struktur data tgs\psda 2\queue al 2\boolean.h
+
+1413890338 source:e:\tugas kuliah\struktur data tgs\psda 2\queue al 2\main.c
+	"queue.h"
+

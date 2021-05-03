@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1411493354 source:e:\queue al 3\fungsi.c
+	"queue.h"
+
+1411493355 e:\queue al 3\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1411493355 e:\queue al 3\boolean.h
+
+1411493523 source:e:\queue al 3\main.c
+	"queue.h"
+
+1411493601 source:d:\struktur data tgs\psda2\queue al 3\fungsi.c
+	"queue.h"
+
+1411495455 d:\struktur data tgs\psda2\queue al 3\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1411493355 d:\struktur data tgs\psda2\queue al 3\boolean.h
+
+1411493523 source:d:\struktur data tgs\psda2\queue al 3\main.c
+	"queue.h"
+
